@@ -1,0 +1,2 @@
+# BookingOrderMenu
+using Odoo10
