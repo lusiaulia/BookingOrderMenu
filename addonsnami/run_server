@@ -1,0 +1,1 @@
+--xmlrpc-port=8020 --db_port 5432 --limit-memory-hard=2684354560 --limit-memory-soft=2147483648 --limit-time-real=10000 -d dbnami
